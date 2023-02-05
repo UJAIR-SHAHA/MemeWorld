@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MemeShare</string>
+    <string name="share">share</string>
+    <string name="next">Next</string>
+    <string name="about">about</string>
+    <string name="by_uzair">By :- Uzair</string>
+</resources>
