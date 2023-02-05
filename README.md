@@ -8,3 +8,7 @@ The app provides you with Awesome random memes that will make you laugh.This App
 
 ## IDE Used - ANDROID STUDIO
 
+## Release
+[MemeWorld](https://github.com/IgnitePluse/Ignite/releases/download/v1/Ignite.apk) 
+updated as of 05/02/2023 (For android).
+
