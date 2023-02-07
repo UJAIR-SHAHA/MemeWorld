@@ -11,8 +11,8 @@ Meme World is a fun and entertaining app where users can browse and enjoy a vast
 - Android Studio
 
 ## Download Apk
-[Download MemeWorld apk](https://github.com/UJAIR-SHAHA/MemeWorld/releases/download/v1/MemeWorld.apk) 
-updated as of 05/02/2023 (For android).## App User Interface
+[MemeWorld](https://github.com/UJAIR-SHAHA/MemeWorld/releases/download/v1/MemeWorld.apk) 
+updated as of 05/02/2023 (For android).
 
 ## App User Interface
 
